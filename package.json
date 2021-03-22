@@ -1,0 +1,26 @@
+{
+  "name": "mocha-chai-test",
+  "version": "1.0.0",
+  "description": "learning mocha-chai nodejs testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mocha-chai@github.com"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing"
+  ],
+  "author": "sebastianus sembara <sembara9090@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^8.3.2"
+  }
+}
